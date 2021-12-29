@@ -1,2 +1,2 @@
 # Enkel
-Enkel is a GUI NTFS shortcut creator for Microsoft Windows.
+Enkel is a GUI NTFS link creator for Microsoft Windows.
