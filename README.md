@@ -9,3 +9,6 @@ Enkel does not need to be installed. This program is distributed in a single exe
 #
 ### How can I build Enkel from source?
 To build Enkel from source you need the [Lazarus development environment](https://lazarus-ide.org).<br>
+#
+### Screenshot
+![Enkel v0.1 screenshot](screenshot.png)
